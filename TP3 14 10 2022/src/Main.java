@@ -6,7 +6,7 @@ public class Main
     private static String move;
     private static int isMoveValid;
     private static boolean side = true;
-
+//test
     public static void main(String [] args)
     {
         Scanner scanner = new Scanner(System.in);
